@@ -1,2 +1,3 @@
 111
 It's string from master branch
+string from new branch
